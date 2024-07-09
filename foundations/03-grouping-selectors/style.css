@@ -1,0 +1,14 @@
+.bl,.wh{
+    font-size: 24px;
+    font-family:Helvetica,"Times New Roman",sans-serif ;
+}
+
+.bl{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.wh{
+    background-color: yellow;
+}
